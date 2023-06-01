@@ -1,2 +1,9 @@
-# APS-failure-in-Scania-trucks-predicting-when-servicing-is-necessary
-The project aims to minimize costs by reducing unnecessary checks (costing $10) and preventing maintenance failures that can lead to breakdowns (costing $500). The main objective is to accurately predict if maintenance is needed for the truck, minimizing unnecessary checks and preventing breakdowns.
+# APS failure in Scania-trucks predicting when servicing is necessary.
+
+The dataset consists of information collected from Scania heavy trucks in daily use. Specifically, the focus is on the Air Pressure System (APS), which generates pressurized air used in various functions of the truck, including braking and gear shifting. The dataset has a positive class, consisting of failures of specific components of the APS system, and a negative class, consisting of trucks with failures in components not related to APS. It is important to note that the data has been selected by experts and is a subset of the available data.
+
+The objective of this project is to minimize the cost associated with unnecessary checks made by mechanics, which cost (10 dollars), and maintenance failures, which can result in breakdowns with a cost of (500 dollars). To achieve this goal, the main objective is to correctly predict whether the truck needs maintenance or not, in order to minimize the number of unnecessary checks and avoid possible breakdowns.
+
+In addition to the exploratory analysis and data preparation techniques, this report also seeks to address the issue of the Curse of Dimensionality. We will discuss the impact of dimensionality on the accuracy of machine learning models and introduce methods to mitigate its effects, such as feature selection and dimensionality reduction techniques like PCA. By applying these methods, we aim to ensure that our analysis is not only accurate but also interpretable and useful for decision-making purposes.
+
+Additionally, the report aims to address the challenge of the Curse of Dimensionality, and to apply techniques such as feature selection and PCA to reduce the dimensionality of the dataset while maintaining its effectiveness in predicting maintenance needs. The ultimate goal is to provide insights that can inform decision-making and help optimize the maintenance process for the Scania trucks.
