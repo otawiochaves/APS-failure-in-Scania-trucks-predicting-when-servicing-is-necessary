@@ -14,7 +14,7 @@ The main objective of this project is to develop a predictive model that accurat
 
 The project begins with an exploratory analysis of the dataset to gain insights into the variables and their relationships. Data preparation techniques are then applied to ensure the dataset is suitable for training and evaluation of machine learning models. Additionally, we address the issue of the Curse of Dimensionality, considering the impact of high dimensionality on model accuracy.
 
-#### Dimensionality Reduction
+### Dimensionality Reduction
 
 To tackle the Curse of Dimensionality and improve model performance, we employ feature selection techniques and dimensionality reduction methods like Principal Component Analysis (PCA). These techniques aim to reduce the number of features while preserving the predictive power of the dataset. The goal is to create a more interpretable and efficient model for maintenance prediction.
 
