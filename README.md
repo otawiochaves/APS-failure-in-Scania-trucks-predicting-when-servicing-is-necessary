@@ -3,7 +3,7 @@
 Welcome to the Scania truck maintenance prediction project! This project was developed as part of my post-graduation program. This repository contains a classification project for predicting failures in the APS (Air Pressure System) of heavy Scania trucks. The main objective of the project is to minimize costs associated with unnecessary checks performed by mechanics and maintenance failures that may result in breakdowns.
 
 <p align="center">
-  <img src="https://www.scania.com/content/www/group/en/home/products-and-services/trucks/_jcr_content/root/responsivegrid/responsivegrid_copy/responsivegrid/heroimage.coreimg.85.1920.jpeg/1585221957546.jpeg" width="50%">
+  <img src="https://www.scania.com/content/www/group/en/home/products-and-services/trucks/_jcr_content/root/responsivegrid/responsivegrid_copy/responsivegrid/heroimage.coreimg.85.1920.jpeg/1585221957546.jpeg" width="70%">
 </p>
 
 ## File Description
